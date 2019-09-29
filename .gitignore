@@ -1,3 +1,4 @@
 .ipynb_checkpoints/SMSSpamCollection-checkpoint.txt
 .ipynb_checkpoints/Spam_Exploration-checkpoint.ipynb
 df_features.csv
+.DS_Store
